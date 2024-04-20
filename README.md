@@ -2,6 +2,9 @@
 
 Sentiment Analysis using Tensorflow/Keras of Hotel_Review.csv
 
+### Dataset Link:
+https://www.kaggle.com/datasets/jiashenliu/515k-hotel-reviews-data-in-europe
+
 ### Steps:
 
 1. Imported necessary libraries: pandas, matplotlib, numpy, seaborn, and TensorFlow modules.
